@@ -1,0 +1,56 @@
+p.defdatboi
+{
+	color:#00FF11;
+	font-size:40px;
+	text-align:left;
+	padding-left:20px;
+	padding-right:20px;
+}
+p.titledatboi
+{
+	color:#00FF11;
+	font-size:60px;
+	text-align:center;
+	text-decoration:underline;
+}
+div.datboiimg
+{
+	position:fixed;
+	top:200px;
+	right:10%;
+}
+div.defdatboii
+{
+	padding-left:30px;
+	width:800px;
+	height:320px;
+	border:5px solid green;
+	text-align:middle;
+	background-color:gray;
+	box-shadow:4px 4px 3px gray;
+
+}
+div.datboisound
+{
+	position:fixed;
+	left:250px;
+}
+body{background-color:#EDEDED;}
+
+button.homebutton
+{
+	font-size:20px;
+	background-color:blue;
+	color:white;
+	border-radius:5px;
+	margin-bottom:20px;
+	font-weight:bold;
+	cursor:pointer;
+	box-shadow:3px 3px 2px gray;
+}
+
+}
+a{color:#FFFFFF;
+  text-decoration:none;}
+a:visited{color:#FFFFFF;}
+a:hover {color:#FFFFFF;}

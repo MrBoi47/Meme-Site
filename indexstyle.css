@@ -1,0 +1,49 @@
+ul.deflist
+{
+	color:#010172;
+	font-family:Ariel "Adagio Sans" Calibri;
+	font-size:20px;
+	list-style:none;
+}
+
+p.deftitle
+{
+	color:#010172;
+	font-family:Ariel "Adagio Sans" Calibri;
+	font-size:40px;
+	text-decoration:underline;
+}
+
+p.deftext
+{
+	color:#010172;
+	font-family:Ariel "Adagio Sans" Calibri;
+	font-size:30px;
+}
+div.niceborder
+{
+	border:5px outset #0000E9;
+	height:250px;
+	width:220px;
+}
+img.nextto
+{
+	position:fixed;
+	bottom:5%;
+	right:10%;
+	height:400px;
+}
+a{
+	text-decoration:none;
+}
+
+
+a.beanos:hover{color:#5E00FF;}
+a.datboi:hover{color:#22FF00;}
+a.pepe:hover{color:#1E9102;}
+a.stinky:hover{color:#503517;}
+a.juan:hover{color:#845622;}
+a.rfrog:hover{color:#01FFAB;}
+a.howard:hover{color:#A0A0A0;}
+a.doge:hover{color:#FFC400;}
+a.spoderman:hover{color:#E10707;}

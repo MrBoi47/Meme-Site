@@ -1,0 +1,59 @@
+p.defbeanos
+{
+	color:#5E00FF;
+	font-size:40px;
+	text-align:left;
+	padding-left:20px;
+	padding-right:20px;
+}
+p.titlebeanos
+{
+	color:#5E00FF;
+	font-size:60px;
+	text-align:center;
+	text-decoration:underline;
+}
+div.beanosimg
+{
+
+	margin-right:30px;
+	float:right;
+
+
+}
+div.defbeanoss
+{
+	padding-left:30px;
+	width:800px;
+	height:320px;
+	border:5px solid purple;
+	text-align:middle;
+	background-color:#D5D5D5;
+	box-shadow:4px 4px 3px gray;
+
+}
+div.beanossound
+{
+	position:fixed;
+	left:250px;
+}
+body{background-color:#EDEDED;}
+
+button.homebutton
+{
+	font-size:20px;
+	background-color:blue;
+	color:white;
+	border-radius:5px;
+	margin-bottom:20px;
+	font-weight:bold;
+	cursor:pointer;
+	box-shadow:3px 3px 2px gray;
+}
+
+
+
+a{color:#FFFFFF;
+  text-decoration:none;}
+a:visited{color:#FFFFFF;}
+a:hover {color:#FFFFFF;}
